@@ -1,0 +1,9 @@
+backup/
+cache/favicons/*
+config/
+databases/
+error.log
+.htaccess
+TODO
+MAJ.log
+var/
